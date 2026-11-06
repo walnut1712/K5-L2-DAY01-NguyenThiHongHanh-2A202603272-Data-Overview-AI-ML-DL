@@ -3,6 +3,16 @@
 **Ngày chạy:*06 November 2026*
 
 **Runtime Colab:** CPU/GPU
+Python 3 Google Compute Engine backend (GPU)
+Showing resources since 7:09 PM
+System RAM
+8.5 / 12.7 GB
+ 
+GPU RAM
+0.2 / 15.0 GB
+ 
+Disk
+0.2 / 112.6 GB
 
 **Python / PyTorch / Ultralytics:* 3.13.16 / 2.11.0+cu130 / 8.4.145*
 

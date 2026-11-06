@@ -149,14 +149,14 @@ Lab hôm nay chỉ **xem prediction**. Chuỗi dưới đây là vòng đời pr
 
 Kiểm tra trên GitHub trong thư mục `report/`:
 
-- [ ] `REPORT.md` (file này đã điền)
-- [ ] `day1_lab_outputs/classification_predictions.json`
-- [ ] `day1_lab_outputs/detection_predictions.json`
-- [ ] `day1_lab_outputs/segmentation_predictions.json`
-- [ ] `day1_lab_outputs/IMAGE_ATTRIBUTION.md`
-- [ ] `day1_lab_outputs/visuals/classification_top5.png`
-- [ ] `day1_lab_outputs/visuals/detection_predictions.png`
-- [ ] `day1_lab_outputs/visuals/segmentation_prediction.png`
-- [ ] Ô validation cuối notebook báo `PASS`
-- [ ] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output
-- [ ] Đã nộp **link repository** trên LMS
+- [X] `REPORT.md` (file này đã điền)
+- [X] `day1_lab_outputs/classification_predictions.json`
+- [X] `day1_lab_outputs/detection_predictions.json`
+- [X] `day1_lab_outputs/segmentation_predictions.json`
+- [X] `day1_lab_outputs/IMAGE_ATTRIBUTION.md`
+- [X] `day1_lab_outputs/visuals/classification_top5.png`
+- [X] `day1_lab_outputs/visuals/detection_predictions.png`
+- [X] `day1_lab_outputs/visuals/segmentation_prediction.png`
+- [X] Ô validation cuối notebook báo `PASS`
+- [X] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output
+- [X] Đã nộp **link repository** trên LMS
